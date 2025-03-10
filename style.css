@@ -89,3 +89,7 @@ hr{
     height: 15px;
     border: #000000;
 }
+.flex{
+display: flex;
+}
+
